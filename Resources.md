@@ -74,6 +74,7 @@ http://statseducation.com/Introduction-to-R/modules/tidy%20data/separate/
 
 ### top functions to know about R
 
+https://willhipson.netlify.app/post/dplyr_across/dplyr_across/
 https://www.youtube.com/watch?v=NDHSBUN_rVU&t=114s
 
 https://www.youtube.com/watch?v=6fEowYTlNT8
