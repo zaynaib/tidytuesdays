@@ -40,6 +40,9 @@ value is the name of the value column to create.
 
 tidy_pop %>% gather("year","population",-1)
 
+
+
+
 - Spread
 
 We have a data frame where some of the rows contain information that is really a variable name. This means the columns are a combination of variable names as well as some data.
@@ -68,3 +71,9 @@ http://statseducation.com/Introduction-to-R/modules/tidy%20data/separate/
 
 
 - Unite
+
+### top functions to know about R
+
+https://www.youtube.com/watch?v=NDHSBUN_rVU&t=114s
+
+https://www.youtube.com/watch?v=6fEowYTlNT8
